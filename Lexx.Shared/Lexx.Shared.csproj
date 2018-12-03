@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>Lexx.Shared</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Alex Marçullo</Authors>
+    <Company>Lexx</Company>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
